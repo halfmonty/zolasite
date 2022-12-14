@@ -1,0 +1,56 @@
+# The URL the site will be built for
+base_url = "https://example.com"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+title = "My Blog"
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = true
+
+theme = "blow"
+
+taxonomies = [
+    {name = "tags", paginate_by = 2, feed = true},
+    {name = "categories", paginate_by = 2, feed = true},
+]
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = true
+
+[extra]
+enable_search = true
+enable_sidebar = false
+enable_adsense = false
+enable_multilingue = false
+
+[extra.navbar]
+title = "My Blog"
+items = [
+    { lang = "en", links = [
+        { url = "/", name = "Home" },
+        { url = "/blog", name = "Blog" },
+        { url = "/categories", name = "Categories" },
+        { url = "/tags", name = "Tags" },
+    ] }
+]
+
+[extra.index]
+title = "My Blog"
+image = "/assets/pics/avataaars.png"
+image_alt = "A picture of a pretty average looking white guy with brown hair."
+
+[extra.social]
+github = "https://github.com/halfmonty"
+twitter = "https://twitter.com/halfmonty11"
+email = "halfmonty11@gmail.com"
+gitlab = ""
+linkedin = ""
+
+[extra.default_author]
+name = "Halfmonty"
+avatar = "/assets/pics/avataaars.png"
+avatar_alt = "A picture of a pretty average looking white guy with brown hair."
