@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 	<title>My Blog - tech</title>
-	<link href="https://halfmonty.github.io/zolasite/tags/tech/atom.xml" rel="self" type="application/atom+xml"/>
-  <link href="https://halfmonty.github.io/zolasite/"/>
+	<link href="http://halfmonty.com/tags/tech/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="http://halfmonty.com/"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
 	<updated>2022-12-14T00:00:00+00:00</updated>
-	<id>https://halfmonty.github.io/zolasite/tags/tech/atom.xml</id>
+	<id>http://halfmonty.com/tags/tech/atom.xml</id>
 	<entry xml:lang="en">
 		<title>My Second post</title>
 		<published>2022-12-14T00:00:00+00:00</published>
 		<updated>2022-12-14T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://halfmonty.github.io/zolasite/blog/myblog-copy/" type="text/html"/>
-		<id>https://halfmonty.github.io/zolasite/blog/myblog-copy/</id>
+		<link rel="alternate" href="http://halfmonty.com/blog/myblog-copy/" type="text/html"/>
+		<id>http://halfmonty.com/blog/myblog-copy/</id>
 		<content type="html">&lt;p&gt;This is my first blog post.&lt;&#x2F;p&gt;
 &lt;h1 id=&quot;thing-1&quot;&gt;Thing 1&lt;&#x2F;h1&gt;
 &lt;p&gt;stuff&lt;&#x2F;p&gt;
@@ -24,8 +24,8 @@
 		<title>My first post</title>
 		<published>2022-12-13T00:00:00+00:00</published>
 		<updated>2022-12-13T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://halfmonty.github.io/zolasite/blog/myblog/" type="text/html"/>
-		<id>https://halfmonty.github.io/zolasite/blog/myblog/</id>
+		<link rel="alternate" href="http://halfmonty.com/blog/myblog/" type="text/html"/>
+		<id>http://halfmonty.com/blog/myblog/</id>
 		<content type="html">&lt;p&gt;This is my first blog post.&lt;&#x2F;p&gt;
 </content>
 	</entry>
