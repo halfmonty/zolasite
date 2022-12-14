@@ -40,7 +40,7 @@ items = [
 
 [extra.index]
 title = "My Blog"
-image = "/assets/pics/avataaars.png"
+image = "/assets/avataaars.png"
 image_alt = "A picture of a pretty average looking white guy with brown hair."
 
 [extra.social]
@@ -52,5 +52,5 @@ linkedin = ""
 
 [extra.default_author]
 name = "Halfmonty"
-avatar = "/assets/pics/avataaars.png"
+avatar = "assets/avataaars.png"
 avatar_alt = "A picture of a pretty average looking white guy with brown hair."
