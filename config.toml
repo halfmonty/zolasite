@@ -20,6 +20,12 @@ taxonomies = [
 # Whether to do syntax highlighting
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
 highlight_code = true
+highlight_theme = "css"
+
+highlight_themes_css = [
+  { theme = "ayu-dark", filename = "syntax-dark.css" },
+  { theme = "ayu-light", filename = "syntax-light.css" },
+]
 
 [extra]
 enable_search = true
@@ -28,18 +34,18 @@ enable_adsense = false
 enable_multilingue = false
 
 [extra.navbar]
-title = "My Blog"
+title = "HalfMonty's Place"
 items = [
     { lang = "en", links = [
         { url = "/", name = "Home" },
         { url = "/blog", name = "Blog" },
         { url = "/categories", name = "Categories" },
-        { url = "/tags", name = "Tags" },
+        { url = "/tags", name = "Tags" }
     ] }
 ]
 
 [extra.index]
-title = "My Blog"
+title = "HalfMonty's Place"
 image = "/assets/avataaars.png"
 image_alt = "A picture of a pretty average looking white guy with brown hair."
 
@@ -52,5 +58,14 @@ linkedin = ""
 
 [extra.default_author]
 name = "Halfmonty"
-avatar = "assets/avataaars.png"
+avatar = "/assets/avataaars.png"
 avatar_alt = "A picture of a pretty average looking white guy with brown hair."
+
+[extra.favicon]
+favicon = "/favicon.ico"
+favicon_16x16 = ""
+favicon_32x32 = ""
+apple_touch_icon = ""
+android_chrome_512 = ""
+android_chrome_192 = ""
+manifest = ""

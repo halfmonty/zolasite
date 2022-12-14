@@ -7,19 +7,11 @@
         <loc>http://halfmonty.com/blog/</loc>
     </url>
     <url>
-        <loc>http://halfmonty.com/blog/myblog-copy/</loc>
-        <lastmod>2022-12-14</lastmod>
-    </url>
-    <url>
-        <loc>http://halfmonty.com/blog/myblog/</loc>
+        <loc>http://halfmonty.com/blog/first/</loc>
         <lastmod>2022-12-13</lastmod>
     </url>
     <url>
         <loc>http://halfmonty.com/blog/page/1/</loc>
-    </url>
-    <url>
-        <loc>http://halfmonty.com/blog/third/</loc>
-        <lastmod>2021-11-12</lastmod>
     </url>
     <url>
         <loc>http://halfmonty.com/categories/</loc>
@@ -31,9 +23,6 @@
         <loc>http://halfmonty.com/categories/blog/page/1/</loc>
     </url>
     <url>
-        <loc>http://halfmonty.com/categories/blog/page/2/</loc>
-    </url>
-    <url>
         <loc>http://halfmonty.com/tags/</loc>
     </url>
     <url>
@@ -43,21 +32,9 @@
         <loc>http://halfmonty.com/tags/blog/page/1/</loc>
     </url>
     <url>
-        <loc>http://halfmonty.com/tags/blog/page/2/</loc>
+        <loc>http://halfmonty.com/tags/meta/</loc>
     </url>
     <url>
-        <loc>http://halfmonty.com/tags/post/</loc>
-    </url>
-    <url>
-        <loc>http://halfmonty.com/tags/post/page/1/</loc>
-    </url>
-    <url>
-        <loc>http://halfmonty.com/tags/post/page/2/</loc>
-    </url>
-    <url>
-        <loc>http://halfmonty.com/tags/tech/</loc>
-    </url>
-    <url>
-        <loc>http://halfmonty.com/tags/tech/page/1/</loc>
+        <loc>http://halfmonty.com/tags/meta/page/1/</loc>
     </url>
 </urlset>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-	<title>My Blog - blog</title>
-	<link href="http://halfmonty.com/tags/blog/atom.xml" rel="self" type="application/atom+xml"/>
+	<title>My Blog - meta</title>
+	<link href="http://halfmonty.com/tags/meta/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="http://halfmonty.com/"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
 	<updated>2022-12-13T00:00:00+00:00</updated>
-	<id>http://halfmonty.com/tags/blog/atom.xml</id>
+	<id>http://halfmonty.com/tags/meta/atom.xml</id>
 	<entry xml:lang="en">
 		<title>My First Post</title>
 		<published>2022-12-13T00:00:00+00:00</published>

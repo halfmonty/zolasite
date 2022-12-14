@@ -4,38 +4,33 @@
 	<link href="http://halfmonty.com/categories/blog/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="http://halfmonty.com/"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
-	<updated>2022-12-14T00:00:00+00:00</updated>
+	<updated>2022-12-13T00:00:00+00:00</updated>
 	<id>http://halfmonty.com/categories/blog/atom.xml</id>
 	<entry xml:lang="en">
-		<title>My Second post</title>
-		<published>2022-12-14T00:00:00+00:00</published>
-		<updated>2022-12-14T00:00:00+00:00</updated>
-		<link rel="alternate" href="http://halfmonty.com/blog/myblog-copy/" type="text/html"/>
-		<id>http://halfmonty.com/blog/myblog-copy/</id>
-		<content type="html">&lt;p&gt;This is my first blog post.&lt;&#x2F;p&gt;
-&lt;h1 id=&quot;thing-1&quot;&gt;Thing 1&lt;&#x2F;h1&gt;
-&lt;p&gt;stuff&lt;&#x2F;p&gt;
-&lt;h1 id=&quot;thing-2&quot;&gt;Thing 2&lt;&#x2F;h1&gt;
-&lt;h2 id=&quot;sub-thing&quot;&gt;sub thing&lt;&#x2F;h2&gt;
-&lt;p&gt;other stuff&lt;&#x2F;p&gt;
-</content>
-	</entry>
-	<entry xml:lang="en">
-		<title>My first post</title>
+		<title>My First Post</title>
 		<published>2022-12-13T00:00:00+00:00</published>
 		<updated>2022-12-13T00:00:00+00:00</updated>
-		<link rel="alternate" href="http://halfmonty.com/blog/myblog/" type="text/html"/>
-		<id>http://halfmonty.com/blog/myblog/</id>
-		<content type="html">&lt;p&gt;This is my first blog post.&lt;&#x2F;p&gt;
-</content>
-	</entry>
-	<entry xml:lang="en">
-		<title>My thrid post</title>
-		<published>2021-11-12T00:00:00+00:00</published>
-		<updated>2021-11-12T00:00:00+00:00</updated>
-		<link rel="alternate" href="http://halfmonty.com/blog/third/" type="text/html"/>
-		<id>http://halfmonty.com/blog/third/</id>
-		<content type="html">&lt;p&gt;This is my thrid updated blog post.&lt;&#x2F;p&gt;
+		<link rel="alternate" href="http://halfmonty.com/blog/first/" type="text/html"/>
+		<id>http://halfmonty.com/blog/first/</id>
+		<content type="html">&lt;h1 id=&quot;introductions&quot;&gt;Introductions&lt;&#x2F;h1&gt;
+&lt;p&gt;Hi, I&#x27;m Half Monty. What is a Half Monty? Well, something not quite a full-monty, I suppose.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;who-am-i&quot;&gt;Who Am I?&lt;&#x2F;h2&gt;
+&lt;p&gt;I&#x27;m a guy who&#x27;s just trying to learn how to be better at what I do. I&#x27;m a true professional full stack developer and it&#x27;s fun and terrible all at the same time. That means I write solutions and implement every part of the process, from architecture, to designing data structures, building schemas and interacting with databases, writing backends, writing frontend, packaging into docker images, writing ci&#x2F;cd pipelines, writing tests and unfortunately even managing infrastructure. &lt;&#x2F;p&gt;
+&lt;h2 id=&quot;experience&quot;&gt;Experience&lt;&#x2F;h2&gt;
+&lt;p&gt;In my line of work, often time-to-market is what drives the most value. I started my career in C# .Net and have transitioned to Node.js with typescript to write many frontends and backends. I generally enjoy Node and typescript but the ecosystem is a problem in a corporate environment. Most of what my work team provides is solutions to many different problems. Unfortunately with many solutions to many problems using Node means having many things to constanty keep up with various libraries and versions and deprecations. This is no problem when you are working on a handful of tools but my team has ~100. &lt;&#x2F;p&gt;
+&lt;h2 id=&quot;rust&quot;&gt;Rust&lt;&#x2F;h2&gt;
+&lt;p&gt;I unfortunately cannot yet make the case for adopting rust and requiring that skillup in my work team but it&#x27;s been on my radar and I&#x27;ve been trying to skill myself up over time in my personal time. I imagine most of what I&#x27;ll find myself writing here is going to be about Rust. Why? Rust works, works fast and works well. When you spend your valuable time creating a bit of Rust code, you don&#x27;t then have to spend more valuable time constantly working to keep it up to date. It will always build and work with Rust&#x27;s promise of backwards compatibile compilation and even deprecated libraries&#x2F;crates shouldn&#x27;t prevent a build from succeeding thanks to the cargo.lock file and the crate repo hanging on to old crates. &lt;&#x2F;p&gt;
+&lt;p&gt;You can actually confidently build an application or service to &amp;quot;completion&amp;quot; and avoid TLM and maintenance hell. This alone is an incredible draw for me to Rust but it&#x27;s filled with so many other desireable features.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;intentions-for-this-blog&quot;&gt;Intentions For This Blog&lt;&#x2F;h2&gt;
+&lt;p&gt;This blog is very a low friction way for me to record thoughts on topics, progress I&#x27;ve made in various areas and a way to document things I&#x27;ve figured out so that I don&#x27;t have to figure them out again.&lt;&#x2F;p&gt;
+&lt;p&gt;I&#x27;m going to treat this much like a diary where the intended audience is future me, but written as if someone else may read it and potentially glean some value.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;this-blog&quot;&gt;This Blog&lt;&#x2F;h2&gt;
+&lt;p&gt;This blog is a static site generator written in Rust called Zola that takes template files and markdown files and spits out a pretty site for you. I&#x27;m currently using a theme called blow that I thought was pretty attractive and supports things like colored code examples&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;rust&quot; class=&quot;language-rust z-code&quot;&gt;&lt;code class=&quot;language-rust&quot; data-lang=&quot;rust&quot;&gt;&lt;span class=&quot;z-source z-rust&quot;&gt;&lt;span class=&quot;z-meta z-function z-rust&quot;&gt;&lt;span class=&quot;z-meta z-function z-rust&quot;&gt;&lt;span class=&quot;z-storage z-type z-function z-rust&quot;&gt;fn&lt;&#x2F;span&gt; &lt;&#x2F;span&gt;&lt;span class=&quot;z-entity z-name z-function z-rust&quot;&gt;main&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-function z-rust&quot;&gt;&lt;span class=&quot;z-meta z-function z-parameters z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-parameters z-begin z-rust&quot;&gt;(&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-function z-rust&quot;&gt;&lt;span class=&quot;z-meta z-function z-parameters z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-parameters z-end z-rust&quot;&gt;)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-function z-rust&quot;&gt; &lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-function z-rust&quot;&gt;&lt;span class=&quot;z-meta z-block z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-block z-begin z-rust&quot;&gt;{&lt;&#x2F;span&gt;
+    &lt;span class=&quot;z-support z-macro z-rust&quot;&gt;println!&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-begin z-rust&quot;&gt;(&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-string z-quoted z-double z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-string z-begin z-rust&quot;&gt;&amp;quot;&lt;&#x2F;span&gt;Hello, world!&lt;span class=&quot;z-punctuation z-definition z-string z-end z-rust&quot;&gt;&amp;quot;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-group z-end z-rust&quot;&gt;)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-terminator z-rust&quot;&gt;;&lt;&#x2F;span&gt;
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-block z-rust&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-block z-end z-rust&quot;&gt;}&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;In the future I would very much like to write my own static site generator in rust or at the very least my own theme. We&#x27;ll see how I get along in future posts.&lt;&#x2F;p&gt;
 </content>
 	</entry>
 </feed>
