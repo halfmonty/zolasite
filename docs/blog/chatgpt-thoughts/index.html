@@ -205,22 +205,166 @@
   <!----------------------------------------------------------->
   <main class="max-w-7xl mx-auto text-black dark:text-gray-200 w-full mb-auto">
     
-<div class="flex items-center flex-col mt-10">
-  <h1 class="text-2xl text-bold">
-    Categories
-  </h1>
-  <p class="text-bold text-xl mt-4">1 categories</p>
+<div class="flex">
+   <h1 class="text-2xl text-bold my-6 mx-auto">
+      ChatGPT Thoughts
+    </h1>
+</div>
+<div class="flex gap-x-8">
+  <div class="flex flex-col w-full border border-2 border-gray-200 dark:border-black rounded-xl p-5 shadow-2xl bg-gray-200 dark:bg-gray-800">
 
-  <div class="flex sm:flex-row flex-col sm:gap-x-7 gap-y-5 mt-6">
-  
-    <a href="http://halfmonty.com/categories/blog/" class="flex items-center space-x-2">
-      <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10"></path>
-      </svg>
-      <span class="text-bold">blog <sup>3</sup></span>
-    </a>
-  
+    <div class="flex flex-col py-2 justify-center">
+     <!-- <h2 class="text-2xl text-bold"><a href='http:&#x2F;&#x2F;halfmonty.com&#x2F;blog&#x2F;chatgpt-thoughts&#x2F;'>ChatGPT Thoughts</a></h2> -->
+      <p class="text-bold"></p>
+    </div>
+
+    <!-- Read time and word count -->
+    <div class="flex flex-wrap py-2">
+      <div class="flex items-center w-1/3">
+        <div class="flex flex-col sm:flex-row sm:space-x-3 text-gray-900 dark:text-gray-400">
+          <span class="flex">
+            <!-- Icon clock -->
+            <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+            </svg>
+            <span class="ml-1">5 min</span>
+          </span>
+          <span class="flex">
+            <!-- Icon pencil -->
+            <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15.232 5.232l3.536 3.536m-2.036-5.036a2.5 2.5 0 113.536 3.536L6.5 21.036H3v-3.572L16.732 3.732z"></path>
+            </svg>
+            <span class="ml-1">932 words</span>
+          </span>
+        </div>
+      </div>
+      <!-- Author and publish date -->
+      <div class="flex w-2/3 sm:space-x-3 text-gray-900 dark:text-gray-400 justify-end">
+         <span class="flex items-center">
+          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"></path>
+          </svg>
+          <span class="ml-1"><time datetime="2022-12-14">Published on December 14, 2022</time></span>
+        </span>
+        <!-- <span class="flex items-center">
+          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z"></path>
+          </svg>
+          
+            <span class="ml-1">Halfmonty</span>
+            <img class="rounded-full h-9 w-9 ml-1" src="&#x2F;assets&#x2F;avataaars.png" alt="A picture of a pretty average looking white guy with brown hair.">
+          
+        </span> -->
+      </div>
+    </div>
+
+    <!-- Categories and Tags -->
+    <div class="flex flex-wrap py-2">
+      <div class="w-2/3">
+        
+          <p>
+            Categories:
+            
+            <a class="text-gray-900 dark:text-gray-400 flex py-1 items-center" href="http://halfmonty.com/categories/blog/">
+              <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10"></path>
+              </svg>
+              <span class="pl-1">blog</span>
+            </a>
+            
+          </p>
+        
+      </div>
+      <div class="w-1/3">
+        
+        <p>
+          Tags:
+          
+          <a class="text-gray-900 dark:text-gray-400 flex py-1 items-center" href="http://halfmonty.com/tags/blog/">
+            <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 7h.01M7 3h5c.512 0 1.024.195 1.414.586l7 7a2 2 0 010 2.828l-7 7a2 2 0 01-2.828 0l-7-7A1.994 1.994 0 013 12V7a4 4 0 014-4z"></path>
+            </svg>
+            <span class="pl-1">blog</span>
+          </a>
+          
+          <a class="text-gray-900 dark:text-gray-400 flex py-1 items-center" href="http://halfmonty.com/tags/ai/">
+            <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 7h.01M7 3h5c.512 0 1.024.195 1.414.586l7 7a2 2 0 010 2.828l-7 7a2 2 0 01-2.828 0l-7-7A1.994 1.994 0 013 12V7a4 4 0 014-4z"></path>
+            </svg>
+            <span class="pl-1">ai</span>
+          </a>
+          
+        </p>
+        
+      </div>
+    </div>
+
+    <!-- Content -->
+    <div id="page-content" class="text-bold mt-2">
+      <h2 id="my-thoughts-on-my-experience-with-chatgpt">My thoughts on my experience with ChatGPT</h2>
+<p>AI continues to get more and more impressive but the idea that entire careers are over is yet to be realized and still seems like such a distant idea. Perhaps I'm just naive and will soon eat crow but I'll explain why I think this and what's holding me back from jumping on the AI overload bandwagon.</p>
+<p>We've had forms of AI for decades and we've been able to watch the progression. I'm sure to the lay person, what's been done largely appears to be magic and if it's magic not understood, then it's simply capable of any and everything. Obviously, my impressions of AI come from my understanding of how they work, how they must be trained from what is publically available and knowable. There are obviously governments and huge corporations working to push AI further and may have implementations that would scare the pants off me. I mean, there has to be a reason why Elon Musk is so afraid of AI and he's intelligent to understand the technology and privy to information and AI implementations that I am not.</p>
+<h2 id="what-it-is-and-how-it-works">What it is and how it works</h2>
+<p>Right in the name, AI, Artificial Intelligence, is a technology that allows machines/computers to mimic human intelligence, learning from experience through iteration and training. Until you've attempted to implement such an technology, you don't realize the immense amount of effort it takes to set up one and how absolutely explicitly you must be with every datapoint it can collect, how it values and interprets that data and what you incentivize. What you end up with is nothing more than exactly what was programmed, it's just a very complicated program that is capable of changing it's output over time based on provided input.</p>
+<h2 id="but-it-s-still-scary-right">But it's still scary, right?</h2>
+<p>But what about those Facebook AI's that started their own language and had to be shut down? Well, plain and simple, that was bogus. For one, yes the AI's did create somewhat of a shorthand but it was things like saying &quot;the&quot; five times to indicate it wanted 5 of something. They hadn't properly incentivized the AI's to use English so it started exploring different language options like it does the rest of it's model as it learns. It also wasn't shut down, nor was it in any way concerning for the Facebook AI team.</p>
+<p>One of the most impressive question answering AI's, IBM's Watson, excels at something like Jeopardy afte having millions of dollars in research and thousands of hours of development and training and yet it's still mostly useless and considered a bit of a failure. The problem is they built it around answering Jeopardy questions and it's pretty much useless at anything else, even after more millions have been thrown at it. This is what I mean that AI is nothing more that a complicated program that does exactly what it was programmed to do.</p>
+<p>I think what people tend to find the most scary and intimidating is an area of AI that we've gotten pretty good at that Natural Language Processing that lets a machine consume natural language and produce natural language. This is probably why ChatGPT concerns so many. However, this is one very tiny part of what would be needed for a general purpose AI that could take over a job / career / industry.</p>
+<p>What most AI's are very good at is staying in their lane. Implementing Amazon's &quot;you may also like&quot; recommendations based on a matrix of past patterns, similarities you share with other customers, the time of year and all sorts of complicated variables is pretty well suited for an AI. The variables are known, you set up the incentives and let the AI learn based on what people click and actually buy and let it set the necessary values associated with the variables it has access to. However, this is one tiny task.</p>
+<p>A General Purpose AI would need to be able to intelligently set it's own incentives based on potential unknown and unlimited variables and perhaps we'll get there with quantum computing but for the time being I think it's beyond our capabilities.</p>
+<h2 id="conclusion">Conclusion</h2>
+<p>ChatGPT is impressive and a step forward, but I don't think it's a leap forward. I think the people who do think that are largely unaware of what already exists. It's great at putting together sentences and talking around information it doesn't have but it's very shallow. The thing that concerns me the most with these types of Natural Language Processsing AI's is the intentions of so many to generate &quot;content&quot; which is shallow and vapid and flooding the internet with low value garbage in an attempt to make a buck from ad revenue which degrades/devalues all content. I know many more bots are going to spring up on twitter and in comment sections around then internet providing convicingly human sounding spam or influence on various, likely political, topics and that's annoying. If anything, ChatGPT has broken us into a new era of spam and bots that take an even keener eye to detect and dismiss which will be harder still if these bots respond in a conversation. </p>
+<p>Want to win an argument on Reddit? Simply spin up you 100 chatGPT bots in a session where the AI is told to pretend to hold a certain position or political view and just simply steam roll a conversation, making everyone present think one opinion is far more common than it actually is. That's what I'm far more concerned with than it taking over more jobs.</p>
+
+    </div>
+
+
+
   </div>
+
+
+    <!-- Table of content -->
+    
+    <div class="hidden sm:block sm:w-1/4 sm:flex sm:items-center sm:flex-col sm:mt-10 sm:w-1/5">
+      <div class="border border-2 border-gray-200 dark:border-black rounded-xl p-5 shadow-2xl bg-gray-200 dark:bg-gray-800 sticky top-12">
+        <p class="text-bold text-xl">Table of contents</p>
+        <ul id="toc">
+          
+          <li class="pl-2 my-2">
+            <a id="link-my-thoughts-on-my-experience-with-chatgpt" class="text-md block rounded-lg p-2" href="http://halfmonty.com/blog/chatgpt-thoughts/#my-thoughts-on-my-experience-with-chatgpt">
+              - My thoughts on my experience with ChatGPT
+            </a>
+            
+          </li>
+          
+          <li class="pl-2 my-2">
+            <a id="link-what-it-is-and-how-it-works" class="text-md block rounded-lg p-2" href="http://halfmonty.com/blog/chatgpt-thoughts/#what-it-is-and-how-it-works">
+              - What it is and how it works
+            </a>
+            
+          </li>
+          
+          <li class="pl-2 my-2">
+            <a id="link-but-it-s-still-scary-right" class="text-md block rounded-lg p-2" href="http://halfmonty.com/blog/chatgpt-thoughts/#but-it-s-still-scary-right">
+              - But it&#x27;s still scary, right?
+            </a>
+            
+          </li>
+          
+          <li class="pl-2 my-2">
+            <a id="link-conclusion" class="text-md block rounded-lg p-2" href="http://halfmonty.com/blog/chatgpt-thoughts/#conclusion">
+              - Conclusion
+            </a>
+            
+          </li>
+          
+        </ul>
+      </div>
+    </div>
+    
+
+
+</div>
 
   </main>
 
@@ -228,7 +372,8 @@
   <!------------------------- PAGINATION ---------------------->
   <!----------------------------------------------------------->
   
-  
+
+
 
   <!---------------------------------------------------------->
   <!------------------------- FOOTER ------------------------->
@@ -277,6 +422,7 @@
   
   
   
-  
+  <script defer src="/js/page.js"></script>
+
   </body>
 </html>

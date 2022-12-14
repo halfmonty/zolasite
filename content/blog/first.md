@@ -10,7 +10,7 @@ toc=true
 
 # Introductions
 
-Hi, I'm Half Monty. What is a Half Monty? Well, something not quite a full-monty, I suppose.
+Hi, I'm Half Monty. What is a Half Monty? Well, something not quite a full-monty, I suppose. Why the pseudonym? I work for a pretty well known fortune 500 company and while I don't anticipate saying anything controversial, we live in a time where even accidents or misunderstandings can years later cause an outrage and uproar and for people to come after you and your job because of something you said. I value my job and I want to protect future me from dumb me today.
 
 ## Who Am I?
 

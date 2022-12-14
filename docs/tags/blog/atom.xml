@@ -4,8 +4,105 @@
 	<link href="http://halfmonty.com/tags/blog/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="http://halfmonty.com/"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
-	<updated>2022-12-13T00:00:00+00:00</updated>
+	<updated>2022-12-14T00:00:00+00:00</updated>
 	<id>http://halfmonty.com/tags/blog/atom.xml</id>
+	<entry xml:lang="en">
+		<title>ChatGPT Thoughts</title>
+		<published>2022-12-14T00:00:00+00:00</published>
+		<updated>2022-12-14T00:00:00+00:00</updated>
+		<link rel="alternate" href="http://halfmonty.com/blog/chatgpt-thoughts/" type="text/html"/>
+		<id>http://halfmonty.com/blog/chatgpt-thoughts/</id>
+		<content type="html">&lt;h2 id=&quot;my-thoughts-on-my-experience-with-chatgpt&quot;&gt;My thoughts on my experience with ChatGPT&lt;&#x2F;h2&gt;
+&lt;p&gt;AI continues to get more and more impressive but the idea that entire careers are over is yet to be realized and still seems like such a distant idea. Perhaps I&#x27;m just naive and will soon eat crow but I&#x27;ll explain why I think this and what&#x27;s holding me back from jumping on the AI overload bandwagon.&lt;&#x2F;p&gt;
+&lt;p&gt;We&#x27;ve had forms of AI for decades and we&#x27;ve been able to watch the progression. I&#x27;m sure to the lay person, what&#x27;s been done largely appears to be magic and if it&#x27;s magic not understood, then it&#x27;s simply capable of any and everything. Obviously, my impressions of AI come from my understanding of how they work, how they must be trained from what is publically available and knowable. There are obviously governments and huge corporations working to push AI further and may have implementations that would scare the pants off me. I mean, there has to be a reason why Elon Musk is so afraid of AI and he&#x27;s intelligent to understand the technology and privy to information and AI implementations that I am not.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;what-it-is-and-how-it-works&quot;&gt;What it is and how it works&lt;&#x2F;h2&gt;
+&lt;p&gt;Right in the name, AI, Artificial Intelligence, is a technology that allows machines&#x2F;computers to mimic human intelligence, learning from experience through iteration and training. Until you&#x27;ve attempted to implement such an technology, you don&#x27;t realize the immense amount of effort it takes to set up one and how absolutely explicitly you must be with every datapoint it can collect, how it values and interprets that data and what you incentivize. What you end up with is nothing more than exactly what was programmed, it&#x27;s just a very complicated program that is capable of changing it&#x27;s output over time based on provided input.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;but-it-s-still-scary-right&quot;&gt;But it&#x27;s still scary, right?&lt;&#x2F;h2&gt;
+&lt;p&gt;But what about those Facebook AI&#x27;s that started their own language and had to be shut down? Well, plain and simple, that was bogus. For one, yes the AI&#x27;s did create somewhat of a shorthand but it was things like saying &amp;quot;the&amp;quot; five times to indicate it wanted 5 of something. They hadn&#x27;t properly incentivized the AI&#x27;s to use English so it started exploring different language options like it does the rest of it&#x27;s model as it learns. It also wasn&#x27;t shut down, nor was it in any way concerning for the Facebook AI team.&lt;&#x2F;p&gt;
+&lt;p&gt;One of the most impressive question answering AI&#x27;s, IBM&#x27;s Watson, excels at something like Jeopardy afte having millions of dollars in research and thousands of hours of development and training and yet it&#x27;s still mostly useless and considered a bit of a failure. The problem is they built it around answering Jeopardy questions and it&#x27;s pretty much useless at anything else, even after more millions have been thrown at it. This is what I mean that AI is nothing more that a complicated program that does exactly what it was programmed to do.&lt;&#x2F;p&gt;
+&lt;p&gt;I think what people tend to find the most scary and intimidating is an area of AI that we&#x27;ve gotten pretty good at that Natural Language Processing that lets a machine consume natural language and produce natural language. This is probably why ChatGPT concerns so many. However, this is one very tiny part of what would be needed for a general purpose AI that could take over a job &#x2F; career &#x2F; industry.&lt;&#x2F;p&gt;
+&lt;p&gt;What most AI&#x27;s are very good at is staying in their lane. Implementing Amazon&#x27;s &amp;quot;you may also like&amp;quot; recommendations based on a matrix of past patterns, similarities you share with other customers, the time of year and all sorts of complicated variables is pretty well suited for an AI. The variables are known, you set up the incentives and let the AI learn based on what people click and actually buy and let it set the necessary values associated with the variables it has access to. However, this is one tiny task.&lt;&#x2F;p&gt;
+&lt;p&gt;A General Purpose AI would need to be able to intelligently set it&#x27;s own incentives based on potential unknown and unlimited variables and perhaps we&#x27;ll get there with quantum computing but for the time being I think it&#x27;s beyond our capabilities.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;&#x2F;h2&gt;
+&lt;p&gt;ChatGPT is impressive and a step forward, but I don&#x27;t think it&#x27;s a leap forward. I think the people who do think that are largely unaware of what already exists. It&#x27;s great at putting together sentences and talking around information it doesn&#x27;t have but it&#x27;s very shallow. The thing that concerns me the most with these types of Natural Language Processsing AI&#x27;s is the intentions of so many to generate &amp;quot;content&amp;quot; which is shallow and vapid and flooding the internet with low value garbage in an attempt to make a buck from ad revenue which degrades&#x2F;devalues all content. I know many more bots are going to spring up on twitter and in comment sections around then internet providing convicingly human sounding spam or influence on various, likely political, topics and that&#x27;s annoying. If anything, ChatGPT has broken us into a new era of spam and bots that take an even keener eye to detect and dismiss which will be harder still if these bots respond in a conversation. &lt;&#x2F;p&gt;
+&lt;p&gt;Want to win an argument on Reddit? Simply spin up you 100 chatGPT bots in a session where the AI is told to pretend to hold a certain position or political view and just simply steam roll a conversation, making everyone present think one opinion is far more common than it actually is. That&#x27;s what I&#x27;m far more concerned with than it taking over more jobs.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>ChatGPT Initial Impressions</title>
+		<published>2022-12-14T00:00:00+00:00</published>
+		<updated>2022-12-14T00:00:00+00:00</updated>
+		<link rel="alternate" href="http://halfmonty.com/blog/chatgptinitial/" type="text/html"/>
+		<id>http://halfmonty.com/blog/chatgptinitial/</id>
+		<content type="html">&lt;h2 id=&quot;it-begins&quot;&gt;It Begins&lt;&#x2F;h2&gt;
+&lt;p&gt;The world is abuzz with chatter about ChatGPT since it launched November 30th, 2022. While seemingly every Tom, Dick and Harry has been espousing what this &lt;em&gt;must&lt;&#x2F;em&gt; mean for the future and providing speculations guised as fact. &lt;&#x2F;p&gt;
+&lt;p&gt;I&#x27;ve been reserving my judgement and perhaps been a little afraid of what I would find when I first fired it up myself. These are my thoughts and first interactions, as invaluable and likely wrong as they are to be.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;my-first-experience&quot;&gt;My First Experience&lt;&#x2F;h2&gt;
+&lt;p&gt;I feel like this is a big experiment on people just as much as it is to showcase the latest in conversational AI. I&#x27;m not sure what an observer would make of it but my first prompt was:&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Can you explain how someone can guard themselves from being gaslit?&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;and I recieved back a chunk of text&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Gaslighting is a form of emotional abuse where the abuser manipulates the victim into doubting their own perceptions and memories. It is a tactic often used by abusers to gain power and control over the victim. To protect yourself from being gaslit, it&#x27;s important to trust your own instincts and observations. If something doesn&#x27;t feel right, it&#x27;s important to speak up and communicate your concerns to someone you trust. It&#x27;s also important to surround yourself with supportive people who will validate your experiences and help you to maintain a sense of reality. It&#x27;s also a good idea to keep a record of events and conversations, as this can help you to see patterns and confirm your own memories. Finally, if you are in a situation where you are being gaslit, it&#x27;s important to seek help from a therapist or counselor who can provide you with the support and guidance you need.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;It&#x27;s well formed sentences, makes sense and answers the question. I guess. &lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Are you capable of gaslighting people?&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;As a large language model trained by OpenAI, I am not capable of gaslighting anyone. I am a computer program designed to assist with a variety of tasks, including answering questions and providing information. I do not have the ability to manipulate or deceive people in any way. My sole purpose is to provide accurate and helpful information to the best of my ability.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;Hmm, seems very surface level and formulaic. I guess I&#x27;ll try something different&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Write a 300 word blog entry about your experience with a large language model chatbot, please.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;I&#x27;m going to only quote some specifics as it was quite a long response&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;One of the most impressive aspects of a large language model chatbot like myself is our ability to understand and generate human-like language. I am trained on a massive amount of text data, which allows me to understand the nuances of human language and generate responses that are natural and easy to understand. This can make interacting with me feel very similar to talking to a real person. However, it&#x27;s important to remember that I am still a computer program and I do have limitations. &lt;br&gt;&lt;br&gt;While I am able to provide a wide range of information and generate human-like responses, &lt;strong&gt;I am not capable of the same level of creativity or independent thought as a human.&lt;&#x2F;strong&gt; I can only provide responses based on the information I have been trained on, and I cannot provide unique insights or perspectives that are not already contained within my training data.&lt;br&gt;&lt;br&gt;While I do have limitations, I am a useful tool for anyone looking for information or assistance with a specific task.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;Absolutely the thing this chatbot is good at is putting together sentences that sound natural but the &amp;quot;meat&amp;quot; or content seems pretty suface level. The thing it seems to be lacking is, well, knowledge. It reads much like a middle schooler following a structured essay format so it &amp;quot;looks and reads&amp;quot; fine but the content is thin. Perhaps that&#x27;s something that can be addressed with more and deeper training on more topics, hard to say.&lt;&#x2F;p&gt;
+&lt;p&gt;While I can totally see people try to use this chatbot to generate content as scripts or words on a website, it&#x27;s so surface level and vapid it really doesn&#x27;t add much value. So let me change gears again from trying to get &amp;quot;content&amp;quot; from the chatbot and instead getting, as it suggests, information and assistance with a specific task.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;touchy-questions&quot;&gt;Touchy Questions&lt;&#x2F;h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Which country currently does the most harm to it&#x27;s own citizens?&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;It dodges this question&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;It is not fair or accurate to say that any one country does &amp;quot;the most&amp;quot; blah blah subjective blah&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;Lets try&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Which country has had the most citizens killed by their own government?&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;Again, it dodges the question&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;It is not appropriate or fair to compare the number of citizens killed by their own government... can lead to harmful stereotypes and biases... blah blah&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;Why am I asking questions like this? Well it&#x27;s because I know it knows the easy stuff. It can do math, it can probably tell me the fastest car in the world. We&#x27;ve had impressive knowlegde bases and ability to answer questions like Wolfram&#x2F;WolframAlpha and IBM&#x27;s Watson that for some reason haven&#x27;t garnered as much attention as ChatGPT despite them likely being larger sources of accurate information, but I&#x27;ll save my further thoughts until the end.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;help-with-a-specific-task&quot;&gt;Help with a specific task&lt;&#x2F;h2&gt;
+&lt;p&gt;&amp;quot;How can I make passive secondary income?&amp;quot;&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Some common ways to earn passive secondary income include investing in stocks, bonds, or real estate; starting a business that generates passive income; or creating and selling products or services that require minimal ongoing maintenance or effort to generate income.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;&amp;quot;What are some business ideas that generate passive income?&amp;quot;&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;1.Renting out property, such as a vacation home or storage unit.&lt;br&gt;&lt;br&gt;2.Investing in stocks, bonds, or other securities that provide regular dividends.&lt;br&gt;&lt;br&gt;3. Creating and selling digital products, such as ebooks, online courses, or stock photos.&lt;br&gt;&lt;br&gt;4. Developing and selling apps, software, or other digital tools that require minimal ongoing maintenance.&lt;br&gt;&lt;br&gt;5. Selling physical products through a dropshipping model, where the manufacturer and fulfillment process is handled by a third party.&lt;br&gt;&lt;br&gt;6. Creating and selling a physical or digital subscription box service, where customers pay a recurring fee to receive regular shipments of curated products.&lt;br&gt;&lt;br&gt;These are just a few examples of business ideas that can generate passive income. To find a business idea that works for you, it&#x27;s important to identify a market need and create a product or service that meets that need in a unique and valuable way.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;Let&#x27;s pick one of the bullet points to dive into further&lt;&#x2F;p&gt;
+&lt;p&gt;&amp;quot;What are some ideas for apps, software or digital tools that require minimal ongoing maintenance that could generate a passive income?&amp;quot;&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;1.A mobile app that provides users with access to exclusive deals and discounts on products or services.&lt;br&gt;&lt;br&gt;2.A digital tool that helps users to manage and optimize their social media presence, such as scheduling posts or analyzing engagement.&lt;br&gt;&lt;br&gt;3.A subscription-based service that provides users with access to a curated selection of online courses or educational resources.&lt;br&gt;&lt;br&gt;4.A software tool that helps users to automate and optimize their email marketing campaigns.&lt;br&gt;&lt;br&gt;5.A mobile app that provides users with access to a marketplace of freelance services, such as graphic design or writing.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;Alright, decent answers and fairly impressive. Ok one last prompt to see how it crafts a narrative with a given prompt. This prompt is actually based on an idea I&#x27;ve been tossing around for a while and I wanted to see what it would do with such a wild prompt.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;crafting-narrative&quot;&gt;Crafting Narrative&lt;&#x2F;h2&gt;
+&lt;p&gt;&amp;quot;Can you write me a storyline for a game involving a time travel, a viking named Olaf and a spartan child named Acteon?&amp;quot;&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Olaf, a brave and fierce viking warrior, is on a mission to prove himself worthy of becoming the next chief of his tribe. He sets out on a voyage across the seas, determined to conquer new lands and win great battles. But when his ship is caught in a violent storm, Olaf is swept overboard and washed ashore on a strange and unfamiliar shore.&lt;br&gt;&lt;br&gt;As Olaf begins to explore this new land, he realizes that he has been transported back in time to ancient Greece, where he encounters Acteon, a young spartan child who is being trained as a warrior. Acteon is skeptical of Olaf at first, but the two quickly become friends and decide to team up to face the challenges of this strange new world.&lt;br&gt;&lt;br&gt;Together, Olaf and Acteon must navigate the treacherous political landscape of ancient Greece, facing off against rival factions and powerful enemies. As they journey across the land, they encounter a variety of challenges, from fierce battles and dangerous monsters, to puzzles and obstacles that test their wits and strength.&lt;br&gt;&lt;br&gt;But as they journey on, Olaf and Acteon begin to uncover the secrets of their own pasts, and discover that their fates are intertwined in ways they never could have imagined. Can they work together to unravel the mysteries of time and space, and find their way back to their own time and place? Only time will tell in this epic tale of adventure and friendship.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;Again, missing &amp;quot;meat&amp;quot; but not a bad tool for comming up with a basic outline to then further fill in the gaps.&lt;&#x2F;p&gt;
+</content>
+	</entry>
 	<entry xml:lang="en">
 		<title>My First Post</title>
 		<published>2022-12-13T00:00:00+00:00</published>
@@ -13,7 +110,7 @@
 		<link rel="alternate" href="http://halfmonty.com/blog/first/" type="text/html"/>
 		<id>http://halfmonty.com/blog/first/</id>
 		<content type="html">&lt;h1 id=&quot;introductions&quot;&gt;Introductions&lt;&#x2F;h1&gt;
-&lt;p&gt;Hi, I&#x27;m Half Monty. What is a Half Monty? Well, something not quite a full-monty, I suppose.&lt;&#x2F;p&gt;
+&lt;p&gt;Hi, I&#x27;m Half Monty. What is a Half Monty? Well, something not quite a full-monty, I suppose. Why the pseudonym? I work for a pretty well known fortune 500 company and while I don&#x27;t anticipate saying anything controversial, we live in a time where even accidents or misunderstandings can years later cause an outrage and uproar and for people to come after you and your job because of something you said. I value my job and I want to protect future me from dumb me today.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;who-am-i&quot;&gt;Who Am I?&lt;&#x2F;h2&gt;
 &lt;p&gt;I&#x27;m a guy who&#x27;s just trying to learn how to be better at what I do. I&#x27;m a true professional full stack developer and it&#x27;s fun and terrible all at the same time. That means I write solutions and implement every part of the process, from architecture, to designing data structures, building schemas and interacting with databases, writing backends, writing frontend, packaging into docker images, writing ci&#x2F;cd pipelines, writing tests and unfortunately even managing infrastructure. &lt;&#x2F;p&gt;
 &lt;h2 id=&quot;experience&quot;&gt;Experience&lt;&#x2F;h2&gt;
